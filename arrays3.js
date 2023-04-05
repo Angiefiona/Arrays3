@@ -35,7 +35,7 @@ for(let i =0; i<arrNum.length; i++){
 
 //Write a function that takes in a an array of strings and use a continue statement when the item is at the second index
 let fruits= ['apple','plum','banana','strawberries','kiwi'];
-for(let i =0; i<arrNum.length; i++){
+for(let i =0; i<fruits.length; i++){
     if(i===2){
         continue;
     }
